@@ -76,5 +76,3 @@ function keyPressed(){
 		Matter.Body.applyForce(bob.body,bob.body.position,{x:-800,y:-500})
 	}
 }
-
-
